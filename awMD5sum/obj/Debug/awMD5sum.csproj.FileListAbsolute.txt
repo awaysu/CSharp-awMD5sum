@@ -1,0 +1,9 @@
+D:\Code\C#-2\awMD5sum\awMD5sum\awMD5sum\obj\Debug\awMD5sum.MainForm.resources
+D:\Code\C#-2\awMD5sum\awMD5sum\awMD5sum\obj\Debug\awMD5sum.csproj.GenerateResource.Cache
+D:\Code\C#-2\awMD5sum\awMD5sum\awMD5sum\bin\Debug\awMD5sum.exe.config
+D:\Code\C#-2\awMD5sum\awMD5sum\awMD5sum\bin\Debug\awMD5sum.exe
+D:\Code\C#-2\awMD5sum\awMD5sum\awMD5sum\bin\Debug\awMD5sum.pdb
+D:\Code\C#-2\awMD5sum\awMD5sum\awMD5sum\obj\Debug\awMD5sum.exe
+D:\Code\C#-2\awMD5sum\awMD5sum\awMD5sum\obj\Debug\awMD5sum.pdb
+D:\Code\C#-2\awMD5sum\awMD5sum\awMD5sum\obj\Debug\awMD5sum.Resource1.resources
+D:\Code\C#-2\awMD5sum\awMD5sum\awMD5sum\obj\Debug\awMD5sum.csprojResolveAssemblyReference.cache
